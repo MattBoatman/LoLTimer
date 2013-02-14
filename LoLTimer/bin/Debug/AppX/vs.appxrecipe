@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADMIRALPC</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CFBD518EC34C44710C01DED322201C27681B243C244D4D8BA65A10B7591373A5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>17629MattBoatman.LeagueofLegendsTimer_1.0.0.1_neutral__gz93qaw051e9w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>17629MattBoatman.LeagueofLegendsTimer_gz93qaw051e9w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>17629MattBoatman.LeagueofLegendsTimer</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D0C2C990-B521-4487-89F6-A013D1FB019E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-22T02:08:14.480</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\LoLTimer.exe">
+      <PackagePath>LoLTimer.exe</PackagePath>
+      <Modified>2013-01-22T02:08:14.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\LoLTimer.pdb">
+      <PackagePath>LoLTimer.pdb</PackagePath>
+      <Modified>2013-01-22T02:08:14.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\120px-Baron_Nashor.png">
+      <PackagePath>120px-Baron_Nashor.png</PackagePath>
+      <Modified>2013-01-21T22:22:28.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\120px-DragonSquare.png">
+      <PackagePath>120px-DragonSquare.png</PackagePath>
+      <Modified>2013-01-21T20:05:49.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\120px-LizardSquare.png">
+      <PackagePath>120px-LizardSquare.png</PackagePath>
+      <Modified>2013-01-21T20:05:00.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-21T20:15:45.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-21T20:16:47.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-21T20:20:17.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-21T20:18:06.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\GolemSquare.png">
+      <PackagePath>GolemSquare.png</PackagePath>
+      <Modified>2013-01-21T19:57:25.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-19T20:26:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-21T20:12:33.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\Visual Studio 2012\Projects\LoLTimer\LoLTimer\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-22T02:08:14.278</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
